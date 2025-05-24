@@ -6,9 +6,9 @@ exacta de tus artistas, canciones y generos mas escuchados.
 
 # INSTALACION
 Para que el script funcione es necesario 
-    - tener una base de datos llamada spotify_db en mysql
-    - poner tu spotify client id y client secret en un archivo dotenv en la carpeta del script
-    - los modulos dotenv, spotipy, python3-dev instalados con pip
+ - tener una base de datos llamada spotify_db en mysql
+ - poner tu spotify client id y client secret en un archivo dotenv en la carpeta del script
+ - los modulos dotenv, spotipy, python3-dev instalados con pip
 el script se puede correr dentro de una terminal pero es preferible correrlo como servicio en systemctl
 
 # TO DO LIST
